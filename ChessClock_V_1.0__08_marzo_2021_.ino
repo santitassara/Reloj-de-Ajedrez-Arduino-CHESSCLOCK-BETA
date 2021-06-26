@@ -1,19 +1,4 @@
-//*****************************************************************************************
-//***    
-//***    Compilado en Arduino v1.6.9
-//***    
-//***    Autor: DINTELTEC
-//***    Producto: http://www.dinteltec.mx/product.php?id_product=143
-//***    E-mail: ventas@dinteltec.com
-//***    Fecha: 06-Jul-16
-//***    Modificacion: 
-//***    Tarjeta: Arduino Uno R3 ATMEGA328P-PU
-//***    Version: V1.0
-//***    Requiere:
-//***             1. http://www.dinteltec.com/descargas/TM1637-master.zip
-//***             2. http://www.dinteltec.com/descargas/LiquidCrystal_I2C.zip
-//***    Proyecto: Reloj para Jugar Ajedrez
-//***    
+
 // ****************************************************************************************
 //                        LIBRERIAS
 // ****************************************************************************************
